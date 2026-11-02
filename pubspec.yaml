@@ -2,7 +2,7 @@ name: otel_planetscale
 description: >-
   OpenTelemetry instrumentation for planetscale by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use planetscale.
-version: 0.1.0
+version: 0.1.1-wip
 repository: https://github.com/dartastic/otel_planetscale
 homepage: https://dartastic.io
 
